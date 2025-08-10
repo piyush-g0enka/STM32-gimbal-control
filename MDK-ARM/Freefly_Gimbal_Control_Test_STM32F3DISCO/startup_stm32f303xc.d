@@ -1,0 +1,1 @@
+freefly_gimbal_control_test_stm32f3disco\startup_stm32f303xc.o: startup_stm32f303xc.s
