@@ -3,7 +3,7 @@
 ## Overview
 This project implements a control loop on the STM32F3-Discovery board to read accelerometer and gyroscope data and control a Freefly gimbal using the QX Protocol. The system computes Tilt and Roll angles from the accelerometer and sends absolute position commands to the gimbal in real-time.
 
-[Watch on YouTube]([Link](https://www.youtube.com/watch?v=snZTMOmNK4Y))
+[Watch on YouTube](https://www.youtube.com/watch?v=snZTMOmNK4Y)
 
 ## Project Structure
 - **Src/**: Source code (main.c and protocol files)
